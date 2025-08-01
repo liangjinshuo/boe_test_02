@@ -1,0 +1,16 @@
+{
+  "apiID": "NewNameSpace015__function_aadirqpiczqgi__c",
+  "apiName": "kh_node20__c",
+  "label": {
+    "zh_CN": "kh_node20",
+    "en_US": ""
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": false,
+  "frontendSDKInvokable": true,
+  "input": [],
+  "output": []
+}
